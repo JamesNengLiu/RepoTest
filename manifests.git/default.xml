@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <!-- Manifest for checkout the newest release of "mpv45" branch /-->  
+  <remote name="origin" fetch="git@git.365jiating.com:datacenter" />
+ 
+  <default revision="master" remote="origin" />
+ 
+  <project path="../dcc" name="dcc.git" ></project>
 
 </manifest>
