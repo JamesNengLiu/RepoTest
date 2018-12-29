@@ -4,6 +4,6 @@
  
   <default revision="master" remote="origin" />
  
-  <project path="dcc" name="docs.git" ></project>
+  <project path="dcc" name="git@github.com:JamesNengLiu/docs.git" ></project>
 
 </manifest>
