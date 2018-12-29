@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="origin" fetch="http://git.365jiating.com" />
+  <remote name="origin" fetch="git@git.365jiating.com:datacenter" />
  
   <default revision="master" remote="origin" />
  
-  <project path="../dcc" name="datacenter/dcc.git" ></project>
+  <project path="../dcc" name="dcc.git" ></project>
 
 </manifest>
