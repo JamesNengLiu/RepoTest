@@ -4,6 +4,6 @@
  
   <default revision="master" remote="origin" />
  
-  <project path="../dcc" name="dcc.git" ></project>
+  <project path="~/Workspace/dcc" name="dcc.git" ></project>
 
 </manifest>
