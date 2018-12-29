@@ -1,13 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
   <!-- Manifest for checkout the newest release of "mpv45" branch /-->  
- 
-  <remote name="gitDemo" fetch=".." />
- 
-  <default revision="master" remote="gitDemo" />
- 
-  <project path="bionic" name="bionic" ></project>
-  <project path="bootable" name="bootable" ></project>
-  <project path="build" name="build" ></project>
-  <project path="cts" name="cts" ></project>
+
 </manifest>
